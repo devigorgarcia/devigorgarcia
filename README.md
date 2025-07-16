@@ -1,7 +1,7 @@
 ## Hello, my name is Igor Garcia
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devigorgarcia&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Junior Web Developer
+- 🔥 Mid-Level Web Developer
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
 
